@@ -1,0 +1,24 @@
+# Change Log
+## [v0.1](https://github.com/aleonsan/vimrc/tree/v0.1) (2017-03-30)
+[Full Changelog](https://github.com/aleonsan/vimrc/compare/initial...v0.1)
+
+**Added features:**
+
+* Special **Python** indentation
+** 79 characters of text indentation
+** 4 spaces tab indentationi, even in reindentation operations
+** new line indentation using regular _autoident_
+* Trailig whitespaces highlighting.
+
+**Added plugins:**
+
+- Added [Vundle](https://github.com/gmarik/Vundle.vim) as plugin manager
+- Added and activate powerline plugin [Lokaltog/powerline](https://github.com/Lokaltog/powerline)
+- Added and activate folding code plugin [tmhedberg/SimpylFold](https://github.com/tmhedberg/SimpylFold)
+- Added and activate pep8 plugin [nvie/vim-flake8](https://github.com/nvie/vim-flake8)
+
+**TODOs:**
+
+- Study some other plugins: _'scrooloose/nerdtree'_ , _'jistr/vim-nerdtree-tabs'_ , _'kien/ctrlp.vim'_ , _'tpope/vim-fugitive'_ , _'Lokaltog/powerline'_
+- Python autocompletions
+- Better indentation behaviour
